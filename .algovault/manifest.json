@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-07-18T04:57:57.469Z",
+  "submissions": {
+    "two-sum": {
+      "questionId": "1",
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table"
+      ],
+      "solutions": {
+        "45789101112131415616231        list<integer>list=new arraylist<>();        for(int i=0;i<nums.length-1;i++){                if(nums[j]+nums[i]==target){                    list.add(i);                    list.add(j);                    return new int[]{i,j};                }            }        }        return new int[]{};    }            for(int j=i+1;j<nums.length;j++){}    public int[] twosum(int[] nums, int target) {        class solution {": {
+          "syncedAt": 1784350677469,
+          "runtime": "0 ms",
+          "memory": "47.04 MB",
+          "githubPath": "Array/Two Sum/"
+        }
+      }
+    }
+  },
+  "username": "abishek5383"
+}

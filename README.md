@@ -19,7 +19,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
-| 1979 | [Find Greatest Common Divisor of Array](./Array/Find%20Greatest%20Common%20Divisor%20of%20Array/) | Easy |
 
 </details>
 

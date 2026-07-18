@@ -1,0 +1,17 @@
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        int j=0;
+        List<Integer>list=new ArrayList<>();
+        for(int i=1;i<nums.length;i++){
+            if(nums[j]+nums[i]!=target){
+                j++;
+                if(nums[j]+nums[i]==target){
+                    list.add(i);
+                    list.add(j);
+                    return new int[]{i,j};
+                }
+            }
+        }
+        return new int[]{};
+    }
+}

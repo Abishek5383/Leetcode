@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-18T05:01:26.866Z",
+  "lastUpdated": "2026-07-18T05:01:28.481Z",
   "submissions": {
     "two-sum": {
       "questionId": "1",
@@ -19,7 +19,7 @@
           "githubPath": "Array/Two Sum/"
         },
         "12345678910111213141516class solution {    public int[] twosum(int[] nums, int target) {        int j=0;        list<integer>list=new arraylist<>();        for(int i=1;i<nums.length;i++){            if(nums[j]+nums[i]!=target){                j++;                if(nums[j]+nums[i]==target){                    list.add(i);                    list.add(j);                }            }        }        return new int[]{};    }}": {
-          "syncedAt": 1784350886866,
+          "syncedAt": 1784350888481,
           "runtime": "0 ms",
           "memory": "N/A",
           "githubPath": "Array/Two Sum/"

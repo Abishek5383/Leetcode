@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-21T07:57:31.731Z",
+  "lastUpdated": "2026-07-21T08:39:00.806Z",
   "submissions": {
     "two-sum": {
       "questionId": "1",
@@ -67,6 +67,25 @@
           "runtime": "6 ms",
           "memory": "44.6 MB",
           "githubPath": "Hash Table/Longest Substring Without Repeating Characters/"
+        }
+      }
+    },
+    "valid-anagram": {
+      "questionId": "242",
+      "title": "Valid Anagram",
+      "titleSlug": "valid-anagram",
+      "difficulty": "Easy",
+      "tags": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784623140806,
+          "runtime": "7 ms",
+          "memory": "46.6 MB",
+          "githubPath": "Hash Table/Valid Anagram/"
         }
       }
     }

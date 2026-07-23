@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-23T08:40:03.349Z",
+  "lastUpdated": "2026-07-23T08:56:49.637Z",
   "submissions": {
     "two-sum": {
       "questionId": "1",
@@ -161,6 +161,24 @@
           "runtime": "0 ms",
           "memory": "N/A",
           "githubPath": "String/Zigzag Conversion/"
+        }
+      }
+    },
+    "powx-n": {
+      "questionId": "50",
+      "title": "Pow(x, n)",
+      "titleSlug": "powx-n",
+      "difficulty": "Medium",
+      "tags": [
+        "Math",
+        "Recursion"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784797009637,
+          "runtime": "0 ms",
+          "memory": "47.6 MB",
+          "githubPath": "Math/Pow(x, n)/"
         }
       }
     }

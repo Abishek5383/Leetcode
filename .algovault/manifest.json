@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-23T08:04:26.841Z",
+  "lastUpdated": "2026-07-23T08:38:54.013Z",
   "submissions": {
     "two-sum": {
       "questionId": "1",
@@ -138,6 +138,23 @@
           "runtime": "2 ms",
           "memory": "47.9 MB",
           "githubPath": "Array/Move Zeroes/"
+        }
+      }
+    },
+    "zigzag-conversion": {
+      "questionId": "6",
+      "title": "Zigzag Conversion",
+      "titleSlug": "zigzag-conversion",
+      "difficulty": "Medium",
+      "tags": [
+        "String"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784795934013,
+          "runtime": "44 ms",
+          "memory": "46.3 MB",
+          "githubPath": "String/Zigzag Conversion/"
         }
       }
     }

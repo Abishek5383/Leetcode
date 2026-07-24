@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-23T08:56:49.637Z",
+  "lastUpdated": "2026-07-24T04:57:28.125Z",
   "submissions": {
     "two-sum": {
       "questionId": "1",
@@ -179,6 +179,24 @@
           "runtime": "0 ms",
           "memory": "47.6 MB",
           "githubPath": "Math/Pow(x, n)/"
+        }
+      }
+    },
+    "maximum-average-subarray-i": {
+      "questionId": "643",
+      "title": "Maximum Average Subarray I",
+      "titleSlug": "maximum-average-subarray-i",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Sliding Window"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784869048125,
+          "runtime": "3 ms",
+          "memory": "69.5 MB",
+          "githubPath": "Array/Maximum Average Subarray I/"
         }
       }
     }
